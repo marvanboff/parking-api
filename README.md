@@ -6,7 +6,7 @@ $ npm install -g flow-bin
 
 ### Run the Flow Background Process
 
-Background process that will check all Flow files for errors
+Background process that will check all Flow files for errors.
 
 ```sh
 $ flow status
@@ -16,4 +16,4 @@ $ flow status
 
 ```sh
 $ flow stop
-´´´
+```
